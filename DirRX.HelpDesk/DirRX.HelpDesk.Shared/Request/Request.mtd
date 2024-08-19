@@ -1,10 +1,10 @@
 {
   "$type": "Sungero.Metadata.EntityMetadata, Sungero.Metadata",
-  "NameGuid": "777801d5-52c2-4f93-8d21-6bdfd81dd813",
-  "Name": "TypeRequest",
+  "NameGuid": "b142e99e-9ae2-466f-90be-f90767e11ac7",
+  "Name": "Request",
   "BaseGuid": "04581d26-0780-4cfd-b3cd-c2cafc5798b0",
   "CanBeNavigationPropertyType": true,
-  "Code": "TypeRequest",
+  "Code": "Request",
   "CreationAreaMetadata": {
     "NameGuid": "f7766750-eee2-4fcd-8003-5c06a90d1f44",
     "Name": "CreationArea",
@@ -21,23 +21,23 @@
   "Forms": [
     {
       "$type": "Sungero.Metadata.StandaloneFormMetadata, Sungero.Metadata",
-      "NameGuid": "9a9c4028-dce0-4d24-9e7d-e208d656e57c",
+      "NameGuid": "20d24564-4f91-44e6-80c7-00a940bee914",
       "Name": "Card",
       "Controls": [
         {
           "$type": "Sungero.Metadata.ControlGroupMetadata, Sungero.Metadata",
-          "NameGuid": "ffd90a25-e991-4b21-a0b2-c69687cd1633",
+          "NameGuid": "94a638fb-e33c-4f46-997a-518a6bdc8c34",
           "Name": "ControlGroup"
         },
         {
           "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
-          "NameGuid": "33b7a894-87ae-43a2-a51c-807e23a677a7",
+          "NameGuid": "c4114eea-b991-402b-bc24-c587a1531533",
           "Name": "Control",
           "ColumnNumber": 0,
           "ColumnSpan": 1,
           "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
-          "ParentGuid": "ffd90a25-e991-4b21-a0b2-c69687cd1633",
-          "PropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299",
+          "ParentGuid": "94a638fb-e33c-4f46-997a-518a6bdc8c34",
+          "PropertyGuid": "9a96c855-b55f-48c8-a0a7-f84d230cec24",
           "RowNumber": 0,
           "RowSpan": 1,
           "Settings": []
@@ -46,11 +46,13 @@
     }
   ],
   "IconResourcesKeys": [],
+  "IntegrationServiceName": "HelpDeskRequest",
+  "IsAbstract": true,
   "OperationsClass": "",
   "Properties": [
     {
       "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
-      "NameGuid": "749bf7eb-a948-4e28-862b-efe28518a299",
+      "NameGuid": "9a96c855-b55f-48c8-a0a7-f84d230cec24",
       "Name": "Name",
       "Code": "Name",
       "IsDisplayValue": true,
@@ -62,7 +64,7 @@
   "PublicStructures": [],
   "ResourcesKeys": [],
   "RibbonCardMetadata": {
-    "NameGuid": "034243f4-1f2d-478b-992a-2746ec1b4457",
+    "NameGuid": "9beda413-c6e7-48de-812d-a09dde28ae8e",
     "Name": "RibbonCard",
     "Categories": [],
     "Elements": [],
@@ -72,7 +74,7 @@
     "RibbonKind": "Card"
   },
   "RibbonCollectionMetadata": {
-    "NameGuid": "8362a470-a7b3-4ff7-b212-1b6e2c0fae04",
+    "NameGuid": "046ac7b6-95d3-4554-ab2a-a16b1d8ed54b",
     "Name": "RibbonCollection",
     "Categories": [],
     "Elements": [],
