@@ -58,31 +58,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Author</value>
   </data>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Request</value>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Result</value>
   </data>
-  <data name="AccusativeDisplayName" xml:space="preserve">
-    <value>Request</value>
+  <data name="Resource_c4114eeab991402bbc24c587a1531533" xml:space="preserve">
+    <value />
   </data>
-  <data name="CollectionDisplayName" xml:space="preserve">
-    <value>Requests</value>
+  <data name="Control_c4114eeab991402bbc24c587a1531533_EmptyText" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Number" xml:space="preserve">
-    <value>Number of the request</value>
+  <data name="Resource_8349348b93594c14aaa53eda3d3c85a5" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Description" xml:space="preserve">
-    <value>Description</value>
+  <data name="Resource_3b9e8e89446844aa83f38b80dc403cbc" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_CreatedDate" xml:space="preserve">
-    <value>Created date</value>
+  <data name="Control_3b9e8e89446844aa83f38b80dc403cbc_EmptyText" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Responsible</value>
+  <data name="Resource_3ffb2689f5604f3e843735c3cb383cd0" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Property" xml:space="preserve">
+  <data name="Resource_f022e37b85064d38a8a843180fef1afc" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_f022e37b85064d38a8a843180fef1afc_EmptyText" xml:space="preserve">
     <value />
   </data>
 </root>
