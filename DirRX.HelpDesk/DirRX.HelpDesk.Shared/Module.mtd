@@ -48,6 +48,10 @@
     {
       "ItemId": "e47c25fc-1209-4608-967d-429424241952",
       "PreviousItemId": "ec789ceb-dd20-454e-91d5-03300d1ce270"
+    },
+    {
+      "ItemId": "dc5fe30d-02ca-4b9a-9e2e-b0d329485e5a",
+      "PreviousItemId": "e47c25fc-1209-4608-967d-429424241952"
     }
   ],
   "IconResourcesKeys": [],
